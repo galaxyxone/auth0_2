@@ -18,4 +18,6 @@ REACT_APP_AUTH0_CALLBACK_URL=http://localhost:3000/callback
 npm install
 npm start
 ```
-# glsx-master-1.44
+# glsx-master-1.45
+
+QmT2Dbeq6yUeiRhxPRSAqVRYEmhuvqXskBRLP2onXUDuiE
